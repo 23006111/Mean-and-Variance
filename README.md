@@ -1,3 +1,6 @@
+## Nmae:Ramya P
+## Register number:212223230168
+
 #  Mean and variance of a discrete  distribution
 
 
